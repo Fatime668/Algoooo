@@ -1,0 +1,13 @@
+C:\Users\Fatime\source\repos\Methods\task2\bin\Debug\netcoreapp3.1\task2.exe
+C:\Users\Fatime\source\repos\Methods\task2\bin\Debug\netcoreapp3.1\task2.deps.json
+C:\Users\Fatime\source\repos\Methods\task2\bin\Debug\netcoreapp3.1\task2.runtimeconfig.json
+C:\Users\Fatime\source\repos\Methods\task2\bin\Debug\netcoreapp3.1\task2.runtimeconfig.dev.json
+C:\Users\Fatime\source\repos\Methods\task2\bin\Debug\netcoreapp3.1\task2.dll
+C:\Users\Fatime\source\repos\Methods\task2\bin\Debug\netcoreapp3.1\task2.pdb
+C:\Users\Fatime\source\repos\Methods\task2\obj\Debug\netcoreapp3.1\task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatime\source\repos\Methods\task2\obj\Debug\netcoreapp3.1\task2.AssemblyInfoInputs.cache
+C:\Users\Fatime\source\repos\Methods\task2\obj\Debug\netcoreapp3.1\task2.AssemblyInfo.cs
+C:\Users\Fatime\source\repos\Methods\task2\obj\Debug\netcoreapp3.1\task2.csproj.CoreCompileInputs.cache
+C:\Users\Fatime\source\repos\Methods\task2\obj\Debug\netcoreapp3.1\task2.dll
+C:\Users\Fatime\source\repos\Methods\task2\obj\Debug\netcoreapp3.1\task2.pdb
+C:\Users\Fatime\source\repos\Methods\task2\obj\Debug\netcoreapp3.1\task2.genruntimeconfig.cache
